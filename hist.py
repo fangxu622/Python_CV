@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+#计算图像灰度平均值
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
